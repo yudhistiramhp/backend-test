@@ -11,7 +11,7 @@ Aplikasi **Book List** adalah aplikasi untuk mengelola buku, penulis, dan rating
 Clone repository ini ke komputer Anda dengan perintah berikut:
 
 ```bash
-https://github.com/yudhistiramhp
+https://github.com/yudhistiramhp/backend-test
 ```
 
 ## Langkah 2: Instalasi Dependensi
